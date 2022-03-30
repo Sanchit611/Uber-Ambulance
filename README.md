@@ -7,7 +7,7 @@
 
 <h2>About the Project: </h2>
 <pre>
-The objective of the project is to add emergency care services as a new category to the existing Uber application. 
+The objective of the project is to add emergency care services as a new category to the existing Uber app. 
 It will thus make it easier for ambulance seekers to schedule a ride in the need of a medical emergency. 
 <br>
 Two different user interfaces , one for the user and the other for the driver are made.
