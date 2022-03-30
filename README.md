@@ -13,8 +13,8 @@ It will thus make it easier for ambulance seekers to schedule a ride in the need
 <br>
 Two different user interfaces , one for the user and the other for the driver are made.
 <br>
-<a target="_blank" href="https://drive.google.com/file/d/1aqwHoIB_f92SEtXCYeZ_BLOeAeCRG6o4/view?usp=sharing" >Click Here</a> to view the user application demo. <br>
-<a target="_blank" href="https://drive.google.com/file/d/1MN5_haV7vMdb9PcSnXJgaWeVzeCqFPyT/view?usp=sharing" >Click Here</a> to view the rider application demo. 
+<a target="_blank" href="https://drive.google.com/file/d/1aqwHoIB_f92SEtXCYeZ_BLOeAeCRG6o4/view?usp=sharing" >Click Here</a> to view the rider application demo. <br>
+<a target="_blank" href="https://drive.google.com/file/d/1MN5_haV7vMdb9PcSnXJgaWeVzeCqFPyT/view?usp=sharing" >Click Here</a> to view the driver application demo. 
 
 <h2>Details:</h2>
 
