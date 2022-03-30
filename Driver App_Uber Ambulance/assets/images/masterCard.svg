@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="28px" viewBox="0 0 44 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>masterCard</title>
+    <g id="New-Templates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2_Transactions" transform="translate(-285.000000, -225.000000)" fill-rule="nonzero">
+            <g id="masterCard" transform="translate(285.000000, 225.000000)">
+                <circle id="Oval" fill="#E61C24" cx="13.5729159" cy="13.5729159" r="13.5729159"></circle>
+                <circle id="Oval" fill="#F99F1B" cx="30.4270841" cy="13.5729159" r="13.5729159"></circle>
+                <path d="M22,2.94532274 L22,2.94532274 C18.7499379,5.51466842 16.8542068,9.42991685 16.8542068,13.5729159 C16.8542068,17.7159149 18.7499379,21.6311633 22,24.200509 L22,24.200509 C25.2500621,21.6311633 27.1457932,17.7159149 27.1457932,13.5729159 C27.1457932,9.42991685 25.2500621,5.51466842 22,2.94532274 L22,2.94532274 Z" id="Path" fill="#F26622"></path>
+            </g>
+        </g>
+    </g>
+</svg>

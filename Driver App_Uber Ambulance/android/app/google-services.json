@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1053865644965",
+    "project_id": "driver-app-6178e",
+    "storage_bucket": "driver-app-6178e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053865644965:android:f5d085edb38feeaf028e4c",
+        "android_client_info": {
+          "package_name": "com.flutterMaterial.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053865644965-s2kqsqdc0gtosreo1js1e2mg672vpl3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpz5Vj3065zjV6WFC9qSWAgPp3Of4TyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053865644965-s2kqsqdc0gtosreo1js1e2mg672vpl3e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053865644965-40kplset5m66rk3qsfdddlgr1pk9ekad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterMaterial.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

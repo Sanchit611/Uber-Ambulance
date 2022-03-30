@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "187106353600",
+    "project_id": "uber-hacktag-344914",
+    "storage_bucket": "uber-hacktag-344914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187106353600:android:c02951dab3956c8869e825",
+        "android_client_info": {
+          "package_name": "com.flutterMaterial.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187106353600-4ok8kn77gklth4mfg6vh111q2rgtobo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudcgeGTP3CqjdcpkdfNvif2E_hy0ZHls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187106353600-4ok8kn77gklth4mfg6vh111q2rgtobo8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187106353600-pk0qvuqj2750finod6qoqqmdvagh4q7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterMaterial.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

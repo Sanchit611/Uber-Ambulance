@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1053865644965-40kplset5m66rk3qsfdddlgr1pk9ekad.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1053865644965-40kplset5m66rk3qsfdddlgr1pk9ekad</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJgBIUQXI2kUMLWx1A1AvQ3hApNexEkHc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1053865644965</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterMaterial.edriveapp</string>
+	<key>PROJECT_ID</key>
+	<string>driver-app-6178e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>driver-app-6178e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1053865644965:ios:4f6dbad069a89574028e4c</string>
+</dict>
+</plist>
